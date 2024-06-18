@@ -2,8 +2,6 @@ package com.testautomationdevelopment.RandomApp;
 
 import io.cucumber.java.en.*;
 
-import org.junit.jupiter.api.Assertions.*;
-
 public class StepDefinitions {
 
     @Given("Navigate to the website")

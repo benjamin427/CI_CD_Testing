@@ -1,6 +1,6 @@
-Feature: An example
+Feature: Google search engine
 
-  Scenario: The example
-    Given an example scenario
-    When all step definitions are implemented
-    Then the scenario passes
+  Scenario: User should enter any word in the text file to search information
+    Given Navigate to the website
+    Then Type any random word in the text field
+    And Click the search button
