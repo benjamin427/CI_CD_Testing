@@ -6,15 +6,15 @@ import org.junit.jupiter.api.Assertions.*;
 
 public class StepDefinitions {
 
-    @Given("an example scenario")
+    @Given("Navigate to the website")
     public void anExampleScenario() {
     }
 
-    @When("all step definitions are implemented")
+    @Then("Type any random word in the text field")
     public void allStepDefinitionsAreImplemented() {
     }
 
-    @Then("the scenario passes")
+    @Then("Click the search button")
     public void theScenarioPasses() {
     }
 
